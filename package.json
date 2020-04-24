@@ -24,7 +24,7 @@
     "stats-js": "^1.0.1",
     "uuid": "^3.4.0",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.11.5"
+    "webpack-dev-server": "^3.1.11"
   },
   "scripts": {
     "start": "node main.js",
